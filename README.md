@@ -1,6 +1,6 @@
 ## Ex 4 Deployment and configuration of a Private Cloud in AWS
-## NAME: VARSHA A
-## REG NO: 212223220121
+## NAME: TARANIKKA A
+## REG NO: 212223220115
 ## Aim:
 To set up of a Private Cloud in AWS.
 
